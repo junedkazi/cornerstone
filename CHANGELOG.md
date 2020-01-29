@@ -1,6 +1,8 @@
 # Changelog
 
 ## Draft
+
+## 5.0.0 (01-29-2020)
 - Add translation key for "read more" blog post link [#1625](https://github.com/bigcommerce/cornerstone/pull/1625)
 
 ## 4.3.1 (2020-01-17)
